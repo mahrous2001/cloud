@@ -1,1 +1,1 @@
-**docker pull mahrous12/cloud_1:tagname**
+**docker pull mahrous12/cloud_1:latest**
