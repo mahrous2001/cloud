@@ -1,0 +1,7 @@
+FROM python
+COPY . /assignment
+WORKDIR /assignment
+RUN pip install numpy
+RUN pip install pandas
+RUN pip install nltk
+CMD python pyfile.py
